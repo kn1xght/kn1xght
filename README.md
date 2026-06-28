@@ -1,6 +1,6 @@
 # Hello there, curious stranger! 👋
 
-My name is **Ante**, and I welcome you to my GitHub profile.
+Welcome you to my GitHub profile. My name is **Ante**.
 
 Everything you'll find here reflects the progress I've made and continue to make.
 

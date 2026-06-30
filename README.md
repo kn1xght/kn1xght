@@ -6,4 +6,4 @@ I'm a first-year Computer Science student at FH Wiener Neustadt who enjoys build
 
 Everything you'll find here reflects the progress I've made and continue to make.
 
-Without much further ado, feel free to explore the repositories below.
+Happy exploring!

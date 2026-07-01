@@ -8,7 +8,7 @@ Everything you'll find here reflects the progress I've made and continue to make
 
 With that said, I encourage you to start with the repositories below.
 
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/kn1xght/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=kn1xght&color=blue" alt="Visitor's Count" />
 </div>

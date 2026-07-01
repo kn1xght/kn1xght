@@ -7,8 +7,3 @@ I'm a first-year Computer Science student at FH Wiener Neustadt who enjoys build
 Everything you'll find here reflects the progress I've made and continue to make.
 
 With that said, I encourage you to start with the repositories below.
-
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=kn1xght&color=blue" alt="Visitor's Count" />
-</div>

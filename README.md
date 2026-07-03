@@ -1,6 +1,6 @@
 # Hello there, curious stranger! 👋
 
-Welcome to my GitHub profile.
+Welcome to **kn1xght's** archives
 
 I'm a first-year Computer Science student at FH Wiener Neustadt who enjoys building and breaking, often in the opposite order.
 

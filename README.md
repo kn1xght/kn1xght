@@ -1,9 +1,6 @@
 # Hello there, curious stranger! 👋
 
-Welcome to my GitHub profile. 
-
 I'm a first-year Computer Science student at FH Wiener Neustadt who enjoys building and breaking, often in the opposite order.
 
-Everything you'll find here reflects the progress I've made and continue to make.
+The repositories below reflect the progress I've made and continue to make toward landing an entry-level IT role. 
 
-With that said, I encourage you to start with the repositories below.

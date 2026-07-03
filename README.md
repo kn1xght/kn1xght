@@ -1,6 +1,6 @@
 # Hello there, curious stranger! 👋
 
-Welcome to my GitHub profile. My name is **Ante**.
+Welcome to my GitHub profile.
 
 I'm a first-year Computer Science student at FH Wiener Neustadt who enjoys building and breaking, often in the opposite order.
 

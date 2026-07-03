@@ -6,7 +6,7 @@ Right now, I'm focused on learning enterprise IT through hands-on labs, with the
 
 The repositories below reflect the progress I've made and continue to make toward that goal.
 
-
+Feel free to check them out! 
 
 
 

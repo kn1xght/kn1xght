@@ -8,5 +8,12 @@ The repositories below reflect the progress I've made and continue to make towar
 
 Feel free to check them out! 
 
+## 🖥️ Featured IT Projects
+
+### [Windows 11 Administration & Troubleshooting](https://github.com/kn1xght/IT-Support/tree/main/Windows)
+Hands-on labs covering Windows 11, user management, NTFS permissions, Event Viewer, services, and troubleshooting.
+
+### [Active Directory & Windows Server](https://github.com/kn1xght/IT-Support/tree/main/Active-Directory)
+Windows Server deployment, network configuration, and Active Directory lab exercises. *(In progress)*
 
 
